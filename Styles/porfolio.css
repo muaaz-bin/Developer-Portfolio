@@ -233,7 +233,17 @@ main section {
     margin-bottom: 30px;
 }
 
-.download-cv{
+.download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer stiles */
+footer {
+    display: flex;
+    /* width: 1600px; */
+    height: 780px;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 230px;
 }
